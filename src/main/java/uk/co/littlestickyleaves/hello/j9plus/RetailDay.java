@@ -8,11 +8,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 /**
- * TODO what it does
- * TODO what uses it
- *
- * @author RRushforth
- * @version $Id: $
+ * Just a POJO for examples
  */
 public class RetailDay {
 
