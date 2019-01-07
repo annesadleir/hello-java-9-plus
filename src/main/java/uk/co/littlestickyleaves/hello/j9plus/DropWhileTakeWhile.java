@@ -1,4 +1,3 @@
-// $Id: $
 package uk.co.littlestickyleaves.hello.j9plus;
 
 import java.util.List;
