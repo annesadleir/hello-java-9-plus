@@ -41,7 +41,7 @@ public class Initialization {
         List<Integer> fromListOf = List.of(1, 2, 3, 4);
 
         System.out.println("The type of the List made from Arrays.asList() is: " + fromArraysAsList.getClass());
-        System.out.println("The type of the Map made from List.of() is: " + fromListOf.getClass());
+        System.out.println("The type of the List made from List.of() is: " + fromListOf.getClass());
     }
 
 }
