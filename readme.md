@@ -19,3 +19,5 @@ https://gist.github.com/mcupak/1330f98c7b393d34510b6dff80027390
 
 https://www.javacodegeeks.com/2018/12/java-11-new-http-client-api.html
 
+
+CompletableFuture?
